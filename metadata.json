@@ -1,0 +1,6 @@
+{
+  "name": "PhotoNest",
+  "description": "Your photos. Your story. Modern photo-sharing social platform with live feed, ImgBB uploads, and Firebase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
